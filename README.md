@@ -1,5 +1,8 @@
 # Voice-Automated-Gmail-Message-Reader-and-Sender-Using-Python
 
+## Note: 
+   ### Need To Get Gmail API Key From Google and The credentials.json File Has To Placed In The Current Working Directory 
+
 ## Tested Platform : Windows
 
 ## Required Packages
