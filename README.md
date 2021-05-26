@@ -13,6 +13,6 @@
 5)  google
 6)  email
 7)  smtplib
-8)  pyttsx3 as r
+8)  pyttsx3 
 9)  socket
 10) random
